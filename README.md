@@ -2,7 +2,7 @@
 
 _Ang Li_, _Qinghua Li_, _Wei Gao_, "[PrivacyCamera: Cooperative Privacy-Aware Photographing with Mobile Phones](https://www.researchgate.net/profile/Ang_Li56/publication/309694776_PrivacyCamera_Cooperative_Privacy-Aware_Photographing_with_Mobile_Phones/links/588854a692851c21ff52f74c/PrivacyCamera-Cooperative-Privacy-Aware-Photographing-with-Mobile-Phones.pdf)", IEEE SECON 2016.
 
-Contact: Ang Li (angli@uark.edu)
+Contact: Ang Li (angli@uark.edu), Qinghua Li (qinghual@uark.edu)
 
 ## Abstract
 Nowadays, mobile phones are usually embedded
