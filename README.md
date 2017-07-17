@@ -26,7 +26,7 @@ privacy in an efficient way.
 ## Citation
 
 Please cite PrivacyCamera in your publications if it helps your research:
-
+```
 @inproceedings{li2016privacycamera,
   title={PrivacyCamera: Cooperative Privacy-Aware Photographing with Mobile Phones},
   author={Li, Ang and Li, Qinghua and Gao, Wei},
@@ -35,4 +35,4 @@ Please cite PrivacyCamera in your publications if it helps your research:
   year={2016},
   organization={IEEE}
 }
-
+```
